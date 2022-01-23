@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "SECOND.C": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
